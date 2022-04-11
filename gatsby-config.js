@@ -36,10 +36,10 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Contentful Starter",
-    description: "Official Contentful Gatsby Starter",
+    title: "Dessiye Designs Blog",
+    description: "Dessiye Designs Blogging Site",
   },
-  pathPrefix: "/gatsby-contentful-starter",
+  pathPrefix: "/dessiyedesigns",
   plugins: [
     "gatsby-transformer-remark",
     "gatsby-transformer-sharp",
