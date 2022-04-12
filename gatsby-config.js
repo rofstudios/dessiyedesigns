@@ -45,6 +45,12 @@ module.exports = {
     "gatsby-transformer-sharp",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sharp",
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        icon: 'src/images/logo.svg',
+      },
+    },
     "gatsby-plugin-image",
     {
       resolve: "gatsby-source-contentful",

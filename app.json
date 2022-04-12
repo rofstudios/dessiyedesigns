@@ -1,10 +1,10 @@
 {
-  "name": "Contentful Gatsby Starter",
-  "description": "Gatsby starter for a Contentful project.",
+  "name": "Dessiye Designs",
+  "description": "Blog Site For Dessiye Designs.",
   "keywords": [
-    "contentful",
-    "gatsby",
-    "static",
+    "dessiye",
+    "designs",
+    "dessiyedesigns",
     "ssg"
   ],
   "repository": "https://github.com/contentful-userland/gatsby-contentful-starter",
